@@ -60,4 +60,4 @@ bbox_pred = torch.gather(input = obj_p, index = bbox_ind, dim = 1)
  
 
 ![Image](https://github.com/user-attachments/assets/d3fefea7-7eb0-4a2b-95db-b06c3481dc1e)
-!https://github.com/1MaxOn1/CV_homeworks/issues/2
+!https://github.com/1MaxOn1/CV_homeworks/issues/2#issue-3132855805
