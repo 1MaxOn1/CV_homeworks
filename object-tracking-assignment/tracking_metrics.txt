@@ -1,0 +1,50 @@
+
+------
+Tracker type: soft
+Total frames processed: 49
+Total ID switches: 794
+Average switches per frame: 16.20
+Balls params: country_balls_amount = 5, random_range = 2, bb_skip_percent = .1
+------
+
+------
+Tracker type: soft
+Total frames processed: 44
+Total ID switches: 679
+Average switches per frame: 15.43
+Balls params: country_balls_amount = 3, random_range = 10, bb_skip_percent = .1
+------
+
+------
+Tracker type: soft
+Total frames processed: 50
+Total ID switches: 5462
+Average switches per frame: 109.24
+Balls params: country_balls_amount = 10, random_range = 5, bb_skip_percent = .4
+------
+
+------
+Tracker type: strong
+Total frames processed: 49
+Total ID switches: 1461
+Average switches per frame: 29.82
+Balls params: country_balls_amount = 5, random_range = 2, bb_skip_percent = .1
+------
+
+------
+Tracker type: strong
+Total frames processed: 44
+Total ID switches: 333
+Average switches per frame: 7.57
+Balls params: country_balls_amount = 3, random_range = 10, bb_skip_percent = .1
+------
+
+
+
+------
+Tracker type: strong
+Total frames processed: 50
+Total ID switches: 3635
+Average switches per frame: 72.70
+Balls params: country_balls_amount = 10, random_range = 5, bb_skip_percent = .4
+------
