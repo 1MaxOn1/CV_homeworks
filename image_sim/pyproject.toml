@@ -1,0 +1,26 @@
+[project]
+name = "image-sim"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Maxim Malahovsky",email = "maximmalahovsky14@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "scikit-learn (>=1.7.2,<2.0.0)",
+    "pillow (>=11.3.0,<12.0.0)",
+    "torch (<2.8)",
+    "opencv-python (>=4.12.0.88,<5.0.0.0)",
+    "tqdm (>=4.67.1,<5.0.0)",
+    "scikit-image (>=0.25.2,<0.26.0)",
+    "imagehash (>=4.3.2,<5.0.0)",
+    "torchvision (<0.23)",
+    "pandas (>=2.3.2,<3.0.0)",
+    "wandb (>=0.21.4,<0.22.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
